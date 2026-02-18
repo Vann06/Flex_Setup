@@ -1,5 +1,7 @@
 # Flex Docker Environment
 
+[youtube](https://youtu.be/OUiSUP_z_3M) VIDEO DEL LAB
+
 Docker environment for [flex](https://github.com/westes/flex) (Fast Lexical Analyzer) built from source.
 
 ## Getting Started
